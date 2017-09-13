@@ -2,8 +2,6 @@
 .ExternalClass {width: 100%; background-color: #ffffff;}
  body	 {width: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;font-family: 'Lato', sans-serif;}
  table {border-collapse: collapse;}
-
-
 body {
   font-family: 'Lato', sans-serif;
 }
@@ -50,4 +48,30 @@ body {
   mso-table-rspace:0;
   margin:0;
   text-align:justify !important
+}
+.banner-display {
+  height: 10px;
+}
+.footer-address {
+  padding-top:20px; padding-bottom:10px;
+}
+.address {
+  color:#CCCCCC;
+}
+.address-sub {
+  color:#CCCCCC;
+  font-weight:300;
+}
+.table-round {
+  border-radius: 0px 0px 6px 6px;
+}
+.unsub-div {
+  text-align:center; color:#000000;
+  font-weight:300;
+  padding-bottom:40px;
+  padding-top:10px
+}
+.unsub-div-2 {
+  text-decoration:underline;
+  color:#000000;
 }
