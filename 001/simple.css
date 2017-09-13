@@ -3,15 +3,7 @@
  body	 {width: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;font-family: 'Lato', sans-serif;}
  table {border-collapse: collapse;}
 
-@media only screen and (max-width: 640px)  {
-        body[yahoo] .full-width {width:440px!important; padding:0;}
-        body[yahoo] .center-align {text-align: center!important;}
-    }
 
-@media only screen and (max-width: 479px) {
-        body[yahoo] .full-width {width:280px!important; padding:0;}
-        body[yahoo] .center-align {text-align: center!important;}
-    }
 body {
   font-family: 'Lato', sans-serif;
 }
