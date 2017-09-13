@@ -12,6 +12,6 @@
  </ul>
  
 
- ### Workshop given by: <a href="https://biswarup.tech">Biswarup Banerjee</a> and <a href = "https://www.linkedin.com/in/rowhitswami/"> Rohit Swami</a>
+ ### Workshop given by: <a href="https://biswarup.tech" target="_blank">Biswarup Banerjee</a> and <a href = "https://www.linkedin.com/in/rowhitswami/" target="_blank"> Rohit Swami</a>
  
  
