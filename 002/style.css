@@ -1,0 +1,28 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 17px;
+}
+
+h4{
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+p{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.para {
+	background: #feeeca;
+	margin-bottom: 15px;
+}
+
+footer {
+	background: black;
+	color: white;
+	padding: 5px;
+	margin-bottom: 50px;
+}
+
