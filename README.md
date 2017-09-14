@@ -1,6 +1,6 @@
 # Introduction to Front End technologies and the Bootstrap Framework
 ## Repository to be used for Imagine Talk 1 workshop by Microsoft Technical Community.
-### Visit <a href = "www.microsoftlpu.com">microsoftlpu.com</a> to know more.
+### Visit <a href = "http://microsoftlpu.com">microsoftlpu.com</a> to know more.
 
  Workshop attendes kindly follow the steps:
  
