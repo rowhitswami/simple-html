@@ -1,0 +1,17 @@
+html {
+  background: url(http://cdn.wallpapersafari.com/97/5/9e732d.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.heading {
+  font-size: 200px;
+  text-align: center;
+  color: white;
+}
+
+.addBackground
+{
+
+}

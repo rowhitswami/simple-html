@@ -1,5 +1,6 @@
 $(document).ready(function() {
   var $para = $("p.heading");
+  console.log($para.length);
   $para.hide().eq(0).show();
   var totalPara = $para.length;
   var curPos = 0;
@@ -15,3 +16,4 @@ $(document).ready(function() {
     });
   }
 });
+// http://cdn.wallpapersafari.com/97/5/9e732d.jpg
