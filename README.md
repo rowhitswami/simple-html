@@ -15,3 +15,4 @@
  ### Workshop given by: <a href="https://biswarup.tech" target="_blank">Biswarup Banerjee</a> and <a href = "https://www.linkedin.com/in/rowhitswami/" target="_blank"> Rohit Swami</a>
  
  ### <a href="http://microsoftlpu.com/team.html">Microsoft LPU Team</a>
+Check out a jQuery based site of MSTC at : <a href = "http://mstclpu.bitballoon.com/" >MSTC Community </a>
